@@ -1,4 +1,4 @@
-This project has several unrelated projects separates as branches (to make the most of free space...)
+This project has several unrelated projects separated as branches (originally done to make the most of free public project limitations...)
 
 Master’s Stuff
 
