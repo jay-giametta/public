@@ -1,5 +1,3 @@
-This project has several unrelated projects separated as branches (originally done to make the most of free public project limitations...)
-
 Master’s Stuff
 ---------------
 AStar - https://github.com/jay-giametta/public/tree/Astar
